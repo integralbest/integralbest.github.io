@@ -1,0 +1,28 @@
+---
+title: About
+layout: home
+---
+
+## integral **B**usiness **E**ntrepreneur **S**ervice **T**echnology
+### 사람, 기술, 업무, 서비스는 각각이 분열된 파편이 아니라,  통합적 시너지입니다.
+
+
+* ### 사람 (Entrepreneur)
+#### '사람'은 '통합적 시너지'의 개별적(block) 내면입니다.
+
+* ### 기술 (Technology)
+#### '기술'은 '통합적 시너지'의 개별적(block) 외형입니다. 
+
+* ### 일 (Business)
+#### '일'은 '통합적 시너지'의 집합적(chained) 내면입니다.  
+
+* ### 서비스 (Service)
+#### '서비스'는 '통합적 시너지'의 집합적(chained) 외형입니다.  
+
+
+| Integral Synergy (통합적 시너지)  | chain        | block                   | 
+|:-----------:|:------------:|:------------------:| 
+| interior| Business (일) | Entrepreneur (사람) |
+|---------- |------------|------------------|
+|exterior | Service (서비스)  | Technology (기술)    | 
+|-----------|------------|------------------|
