@@ -5,8 +5,9 @@ layout: home
 
 ### **I**ntegral Synergy  
 ### **B**usiness X **E**ntrepreneur X **S**ervice X **T**echnology  
-#### 사업 X 사람 X 서비스 X 기술   
-#### 분열된 파편이 아닌 통합적 시너지  
+###  
+#### ( 사업 X 사람 X 서비스 X 기술 ) 의 통합 시너지     
+####   
 
 
 
